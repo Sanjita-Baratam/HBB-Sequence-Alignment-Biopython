@@ -45,6 +45,9 @@ Sequences were fetched from the **NCBI Nucleotide Database** using the following
 
 ---
 
+## Outcome
+- Successfully aligned HBB gene sequences
+
 ## 📊 Results Summary
 
 | Comparison | Global Alignment Score | Local Alignment Score |
