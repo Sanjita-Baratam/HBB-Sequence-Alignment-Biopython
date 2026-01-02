@@ -1,4 +1,4 @@
-# Pairwise Sequence Alignment of HBB Gene Using Biopython
+# Pairwise Sequence Alignment of Human HBB Gene Using Biopython
 
 ## 📌 Overview
 This project performs **pairwise sequence alignment** of the **Hemoglobin Beta (HBB) gene** among:
